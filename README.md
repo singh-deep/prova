@@ -1,8 +1,8 @@
 # prova
 il mio primo repository
 
-##esempio sottotitoli
+##esempio sottotitoli##
 
-*corsivo 
-**grassetto
+*corsivo* 
+**grassetto**
 **_corsivo_**
